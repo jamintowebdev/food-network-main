@@ -6,6 +6,6 @@ h1 {
     font-size: 50px;
 }
 
-h1 span {
+.skipColor {
     color: #F1C40F;
 }
