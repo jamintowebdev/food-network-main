@@ -13,3 +13,11 @@ h1 {
 .subHead1 {
     color: #828282
 }
+
+section {
+    display: flex;
+}
+
+.halfWidth {
+    
+}
