@@ -56,7 +56,6 @@ section {
 /* ************************ */
 
 .recipies {
-    display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -70,3 +69,9 @@ section {
 
 /* **************************** */
 
+.recipies {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+}
