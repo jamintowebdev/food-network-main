@@ -46,9 +46,27 @@ section {
     background-repeat: no-repeat;
     width: 100%;
     margin: 0;
+    margin-bottom: 80px;
 }
 
 .bigImage {
     padding-left: 200px;
 }
+
+/* ************************ */
+
+.recipies {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-left: 300px;
+
+    width: 706px;
+    height: 159px;
+    left: 367px;
+}
+
+/* **************************** */
 
