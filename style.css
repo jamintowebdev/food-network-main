@@ -19,5 +19,10 @@ section {
 }
 
 .halfWidth {
-    
+    width: 50%;
+}
+
+/* I can change the width of this image any time */
+.halfWidth img {
+    width: 100%;
 }
