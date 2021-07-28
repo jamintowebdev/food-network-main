@@ -20,9 +20,19 @@ section {
 
 .halfWidth {
     width: 50%;
+    padding-left: 5%;
 }
 
 /* I can change the width of this image any time */
 .halfWidth img {
-    width: 100%;
+    width: 80%;
+}
+
+.buttonFoodOrder {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 15px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 40px;
 }
