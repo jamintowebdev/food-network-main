@@ -74,22 +74,55 @@ section {
     padding: 50px;
     margin-left: 350px;
 }
-.recipies-section-xy{
+
+.recipies-section-xy {
     display: flex;
     margin: 0 5%;
 }
-.recipie img{
+
+.recipie img {
     width: 100%;
     border-radius: 20px;
 }
-.recipie{
+
+.recipie {
     width: 33.333%;
-    margin:0 20px;
+    margin: 0 20px;
     background: #FFFFFF;
     padding: 20px;
     border-radius: 20px;
     box-shadow: 0 0 15px gray;
 }
-.recipie p{
+
+.recipie p {
     line-height: 150%;
 }
+
+
+/* ********Socila Media Scetion*********** */
+
+
+#sec4-activity {
+    padding: 75px 0px 75px 200px;
+    display: flex;
+    margin: 100px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 25px rgb(204, 204, 204);
+    line-height: 10%;
+}
+
+.activity {
+    width: 33%;
+}
+
+#sec4-activity h4 {
+    font-size: 60px;
+}
+
+#sec4-activity p {
+    font-size: 18px;
+}
+
+
+/* ***************** Food Network Footer ****************** */
+
