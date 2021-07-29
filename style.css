@@ -4,6 +4,7 @@ body {
 
 h1 {
     font-size: 60px;
+    padding-top: 180px;
 }
 
 .skipColor {
@@ -27,6 +28,7 @@ section {
 /* I can change the width of this image any time */
 .halfWidth img {
     width: 100%;
+    margin-top: 70px;
 }
 
 .linkButton {
@@ -41,33 +43,22 @@ section {
 
 
 /* About Me Section Start from Here */
-.aboutMe {
+#aboutMe {
     background-image: url(images/shapes/img-bg1.png);
+    background-position: 100%;
+    margin: 0 auto;
     background-repeat: no-repeat;
-    width: 100%;
-    margin-bottom: 80px;
-    margin-left: 0px;
-    margin-right: 0px;
 }
 
 .bigImage {
-    padding-left: 150px;
-    padding-right: 30px;
-    margin: 0;
+    padding: 40px;
+    border-left: 30px;
+    margin-left: 35px;
 }
 
-/* ************************ */
-
-.recipies {
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    padding-left: 300px;
-
-    width: 706px;
-    height: 159px;
-    left: 367px;
+#aboutRightSide {
+    padding: 40px;
+    border-left: 30px;
+    margin-left: 35px;
 }
 
-/* **************************** */
